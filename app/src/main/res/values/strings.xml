@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Lock</string>
+    <string name="btn_start">Start lock screen</string>
+    <string name="btn_stop">Stop lock screen</string>
+    <string name="setting_name">Enable lock screen</string>
+    <string name="unlock_label">> Slide untuk dapat point ></string>
+</resources>
